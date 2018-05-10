@@ -1,0 +1,3 @@
+﻿  BasicSceneRenderer.cpp
+c:\users\nick\downloads\graphics\nickassignment2\basicscenerendererwithmaterials_inclass\basicscenerenderer.cpp(591): warning C4018: '<': signed/unsigned mismatch
+  BasicScene.vcxproj -> C:\Users\nick\Downloads\GRAPHICS\NickAssignment2\BasicSceneRendererWithMaterials_InClass\Debug\BasicScene.exe
